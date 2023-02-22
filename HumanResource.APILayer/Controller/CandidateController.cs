@@ -20,6 +20,14 @@ namespace HumanResource.APILayer.Controller
         {
             candidateServiceAsync = _candidateServiceAsync;
         }
+
+        [HttpGet]
+        public async Task<IActionResult> Get()
+        {
+            var result = await candidateServiceAsync.GetAllAsync();
+            return Ok(result);
+        }
+
         [HttpPost]
         public async Task<IActionResult> Post(CandidateRequestModel model)
         {
