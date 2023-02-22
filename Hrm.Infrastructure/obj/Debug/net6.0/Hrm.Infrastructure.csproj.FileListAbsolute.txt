@@ -1,0 +1,17 @@
+/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/bin/Debug/net6.0/Hrm.Infrastructure.deps.json
+/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/bin/Debug/net6.0/Hrm.Infrastructure.runtimeconfig.json
+/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/bin/Debug/net6.0/Hrm.Infrastructure.dll
+/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/bin/Debug/net6.0/Hrm.Infrastructure.pdb
+/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/bin/Debug/net6.0/Hrm.ApplicationCore.dll
+/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/bin/Debug/net6.0/Hrm.ApplicationCore.pdb
+/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/obj/Debug/net6.0/Hrm.Infrastructure.csproj.AssemblyReference.cache
+/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/obj/Debug/net6.0/Hrm.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/obj/Debug/net6.0/Hrm.Infrastructure.AssemblyInfoInputs.cache
+/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/obj/Debug/net6.0/Hrm.Infrastructure.AssemblyInfo.cs
+/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/obj/Debug/net6.0/Hrm.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/obj/Debug/net6.0/Hrm.Infrastructure.csproj.CopyComplete
+/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/obj/Debug/net6.0/Hrm.Infrastructure.dll
+/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/obj/Debug/net6.0/refint/Hrm.Infrastructure.dll
+/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/obj/Debug/net6.0/Hrm.Infrastructure.pdb
+/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/obj/Debug/net6.0/Hrm.Infrastructure.genruntimeconfig.cache
+/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/obj/Debug/net6.0/ref/Hrm.Infrastructure.dll

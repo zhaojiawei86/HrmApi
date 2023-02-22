@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{DC7970AC-05F8-4EE9-8858-C27F61990C96}|Default">
+  <MonoDevelop.Ide.ItemProperties.HumanResource.APILayer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hrm.Infrastructure/Migrations/20230222162619_init2.cs">
+    <Files>
+      <File FileName="HumanResource.APILayer/Program.cs" />
+      <File FileName="HumanResource.APILayer/Controller/ValuesController.cs" />
+      <File FileName="HumanResource.APILayer/appsettings.json" />
+      <File FileName="Hrm.Infrastructure/Data/HRMDbContext.cs" />
+      <File FileName="Hrm.ApplicationCore/Entity/JobCategory.cs" />
+      <File FileName="Hrm.ApplicationCore/Contract/Repository/ICandidateRepositoryAsync.cs" />
+      <File FileName="Hrm.ApplicationCore/Contract/Repository/IRepositoryAsync.cs" />
+      <File FileName="Hrm.ApplicationCore/Model/Request/CandidateRequestModel.cs" />
+      <File FileName="Hrm.ApplicationCore/Entity/Candidate.cs" />
+      <File FileName="Hrm.Infrastructure/Repository/UserRepositoryAsync.cs" />
+      <File FileName="Hrm.Infrastructure/Service/CandidateServiceAsync.cs" Line="64" Column="32" />
+      <File FileName="Hrm.Infrastructure/Migrations/20230222162619_init2.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HrmApi" expanded="True">
+            <Node name="Hrm.ApplicationCore" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Contract" expanded="True" />
+            </Node>
+            <Node name="Hrm.Infrastructure" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+            </Node>
+            <Node name="HumanResource.APILayer" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
