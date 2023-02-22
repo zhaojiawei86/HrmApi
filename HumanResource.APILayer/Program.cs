@@ -1,4 +1,8 @@
-﻿using Hrm.Infrastructure.Data;
+﻿using Hrm.ApplicationCore.Contract.Repository;
+using Hrm.ApplicationCore.Contract.Service;
+using Hrm.Infrastructure.Data;
+using Hrm.Infrastructure.Repository;
+using Hrm.Infrastructure.Service;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
@@ -13,6 +17,10 @@ builder.Services.AddDbContext<HRMDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("HrmApiDb"));
 });
+
+builder.Services.AddScoped<ICandidateServiceAsync, CandidateServiceAsync>();
+builder.Services.AddScoped<ICandidateRepositoryAsync, CandidateRepositoryAsync>();
+
 
 var app = builder.Build();
 app.UseRouting(); // middlleware allow to use routing
