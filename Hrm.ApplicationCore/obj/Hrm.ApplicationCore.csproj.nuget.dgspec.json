@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jiaweizhao/Desktop/HrmApi/Hrm.ApplicationCore/Hrm.ApplicationCore.csproj": {}
+    "/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.ApplicationCore/Hrm.ApplicationCore.csproj": {}
   },
   "projects": {
-    "/Users/jiaweizhao/Desktop/HrmApi/Hrm.ApplicationCore/Hrm.ApplicationCore.csproj": {
+    "/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.ApplicationCore/Hrm.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jiaweizhao/Desktop/HrmApi/Hrm.ApplicationCore/Hrm.ApplicationCore.csproj",
+        "projectUniqueName": "/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.ApplicationCore/Hrm.ApplicationCore.csproj",
         "projectName": "Hrm.ApplicationCore",
-        "projectPath": "/Users/jiaweizhao/Desktop/HrmApi/Hrm.ApplicationCore/Hrm.ApplicationCore.csproj",
+        "projectPath": "/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.ApplicationCore/Hrm.ApplicationCore.csproj",
         "packagesPath": "/Users/jiaweizhao/.nuget/packages/",
-        "outputPath": "/Users/jiaweizhao/Desktop/HrmApi/Hrm.ApplicationCore/obj/",
+        "outputPath": "/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.ApplicationCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jiaweizhao/.nuget/NuGet/NuGet.Config"

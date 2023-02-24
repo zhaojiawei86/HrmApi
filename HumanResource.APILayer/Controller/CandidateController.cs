@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
 using Hrm.ApplicationCore.Contract.Service;
 using Hrm.ApplicationCore.Model.Request;
@@ -28,6 +29,18 @@ namespace HumanResource.APILayer.Controller
             return Ok(result);
         }
 
+        [HttpGet]
+        [Route("{id}")]
+        public async Task<IActionResult> Get(int id)
+        {
+            var item = await candidateServiceAsync.GetByIdAsync(id);
+            if (item == null)
+            {
+                return BadRequest(item);
+            }
+            return Ok(item);
+        }
+
         [HttpPost]
         public async Task<IActionResult> Post(CandidateRequestModel model)
         {
@@ -51,6 +64,30 @@ namespace HumanResource.APILayer.Controller
             return BadRequest(model);
         }
         */
+
+        [HttpPut]
+        public async Task<IActionResult> Put(CandidateRequestModel model, int id)
+        {
+            model.Id = id;
+            var item = await candidateServiceAsync.UpdateAsync(model);
+            if (item == 0)
+            {
+                return BadRequest(item);
+            }
+            return Ok(item);
+        }
+
+        [HttpDelete]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var item = await candidateServiceAsync.GetByIdAsync(id);
+            if (item == null)
+            {
+                return BadRequest(item);
+            }
+            await candidateServiceAsync.DeleteAsync(id);
+            return Ok(item);
+        }
     }
 }
 
