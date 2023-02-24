@@ -3746,11 +3746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/Hrm.Infrastructure.csproj",
+      "projectUniqueName": "/Users/jiaweizhao/Desktop/HrmApi/Hrm.Infrastructure/Hrm.Infrastructure.csproj",
       "projectName": "Hrm.Infrastructure",
-      "projectPath": "/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/Hrm.Infrastructure.csproj",
+      "projectPath": "/Users/jiaweizhao/Desktop/HrmApi/Hrm.Infrastructure/Hrm.Infrastructure.csproj",
       "packagesPath": "/Users/jiaweizhao/.nuget/packages/",
-      "outputPath": "/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.Infrastructure/obj/",
+      "outputPath": "/Users/jiaweizhao/Desktop/HrmApi/Hrm.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jiaweizhao/.nuget/NuGet/NuGet.Config"
@@ -3765,8 +3765,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.ApplicationCore/Hrm.ApplicationCore.csproj": {
-              "projectPath": "/Users/jiaweizhao/Desktop/antra/assignments/HrmApi/Hrm.ApplicationCore/Hrm.ApplicationCore.csproj"
+            "/Users/jiaweizhao/Desktop/HrmApi/Hrm.ApplicationCore/Hrm.ApplicationCore.csproj": {
+              "projectPath": "/Users/jiaweizhao/Desktop/HrmApi/Hrm.ApplicationCore/Hrm.ApplicationCore.csproj"
             }
           }
         }
